@@ -1,6 +1,6 @@
-# xpkg-template | [xlings](https://github.com/d2learn/xlings)
+# d2x | [xlings](https://github.com/d2learn/xlings)
 
-> ...
+> 一个交互式教程项目搭建工具
 
 | [xpkg文档]() - [xlings工具](https://github.com/d2learn/xlings) - [包索引仓库](https://github.com/d2learn/xim-pkgindex) - [包索引网站](https://d2learn.github.io/xim-pkgindex) - [论坛交流](https://forum.d2learn.org/category/9/xlings) - [d2learn开源](https://github.com/d2learn) |
 |---|
@@ -34,9 +34,9 @@ Invoke-Expression (Invoke-Webrequest 'https://d2learn.org/xlings-install.ps1.txt
 **安装命令**
 
 ```bash
-xlings install xpkgname
+xlings install d2x
 ```
 
 **Refs**
 
-- xxx
+- https://github.com/d2learn/d2x
